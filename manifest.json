@@ -3,7 +3,7 @@
     "display_name": "VegaMovies",
     "value": "vega",
     "version": "1.12",
-    "icon": "",
+    "icon": "hello",
     "type": "global",
     "disabled": false
   },
@@ -328,3 +328,4 @@
     "disabled": false
   }
 ]
+
